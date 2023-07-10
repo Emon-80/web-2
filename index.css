@@ -1,0 +1,46 @@
+.head{
+    font-family: 'Open Sans', sans-serif;
+    background-color: aliceblue;
+    
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin: 0px 30px;
+}
+.li{
+    margin-right: 20px;
+}
+.nav-title{
+    margin-left: 150px;
+}
+.span{
+    color: rgb(233, 26, 26);
+}
+.btn-prime{
+    background-color: rgb(233, 26, 26);
+    border: 0px;
+    padding: 5px 15px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+/* banner style */
+.banner-box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.banner{
+    margin-left: 150px;
+    max-width: 700px;
+    text-align: center;
+    align-items: center;
+}
+
+}
